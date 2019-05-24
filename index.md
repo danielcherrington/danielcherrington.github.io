@@ -3,7 +3,7 @@ layout: default
 title: Daniel Cherrington
 ---
 
-**Skills**
+## Skills
 
 **PHP** 
 - SugarCRM (expert)
