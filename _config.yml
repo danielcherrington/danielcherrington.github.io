@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
 title: [Daniel Cherrington]
 description: [danielcherrington.github.io]
+plugins:
+  - jekyll-seo-tag
