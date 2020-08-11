@@ -8,8 +8,8 @@ title: Daniel Cherrington
 **PHP** 
 - SugarCRM (expert)
 - Drupal (expert)
-- Symfony (novice)
-- Laravel (novice)
+- Symfony
+- Laravel
 
 **Javascript**
 - Backbone
@@ -29,11 +29,11 @@ title: Daniel Cherrington
 
 **Databases**
 - MYSQL (expert)
-- MSSQL (interm)
-- SQLLITE (interm)
+- MSSQL 
+- SQLLITE
 
 **.NET** 
-- C# (interm)
+- C#
 
 **Graphics**
 - Photoshop
@@ -42,6 +42,7 @@ title: Daniel Cherrington
 **Web Services**
 - REST
 - SOAP
+- GraphQL
 
 **Formats**
 - JSON
