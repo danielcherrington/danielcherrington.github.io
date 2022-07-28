@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Daniel Cherrington",
   nickname: "DC",
   subTitle:
-    "An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities.",
+    "An aspiring developer who loves to take on new projects that challenge his analytical and technological capacities.",
   resumeLink:
     "",
   portfolio_repository: "https://github.com/danielcherrington",
@@ -105,9 +105,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building resposive website front end using Angular and React",
-        "⚡ Implementing secure access to database",
-        "⚡ Creating application backend in PHP",
+        "⚡ Building resposive website front ends using the latest technologies. ",
+        "⚡ Designing and building database schema's to power business workflows",
+        "⚡ Creating application backends in PHP",
       ],
       softwareSkills: [
         {
@@ -243,7 +243,7 @@ const skills = {
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
         "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Designing the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
         {
