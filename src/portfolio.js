@@ -462,6 +462,7 @@ const certifications = {
       alt_name: "Sugar University",
       color_code: "#2A73CC",
     }
+  ]
 };
 
 // Experience Page
