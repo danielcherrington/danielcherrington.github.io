@@ -19,7 +19,6 @@ jobs:
         run: |
           npm install
           npm run build
-          node git_data_fetcher.js
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
