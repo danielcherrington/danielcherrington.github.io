@@ -8,7 +8,7 @@ const settings = {
 //Home Page
 const greeting = {
   title: "Daniel Cherrington",
-  logo_name: "daniel.cherrington.dev",
+  logo_name: "Daniel Cherrington",
   nickname: "DC",
   subTitle:
     "An experienced developer who loves to take on new projects that challenge my analytical and technological capacities.",
