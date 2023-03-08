@@ -11,7 +11,7 @@ const greeting = {
   logo_name: "Daniel Cherrington",
   nickname: "DC",
   subTitle:
-    "An experienced developer who loves to take on new projects that challenge my analytical and technological capacities.",
+    "An experienced full-stack developer with a passion for buiding modern web apps with great UX.",
   resumeLink:
     "",
   portfolio_repository: "https://github.com/danielcherrington",
